@@ -1,0 +1,39 @@
+.primaire{
+    width: 50%;
+    margin:0 auto;
+    
+}
+
+.image{
+    border: 1px solide lightblue;
+    border-radius: 50%;
+    float: left;
+    height: 260px;
+}
+.profil{
+   height: 260px;
+   
+} 
+
+
+
+hr{
+    /* width: 50%; */
+    border-color: aqua;
+   
+}
+
+ul {
+    list-style-type: none;
+     float: left; 
+    margin-top: 80px;
+    
+} 
+
+h1, h2, .souspara{
+    text-align: center;
+    
+}
+.souspara{
+   padding-bottom: 20px;
+}
